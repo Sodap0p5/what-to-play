@@ -2,10 +2,9 @@
 
 /* Gaming Group Members */
 var MEMBERS = [
-	'mcgraths',
-	'Jonstandring13',
-	'm477r33d',
-	'gregorjk'
+	'Danielep88',
+	'almaras25',
+	'Dege'
 ];
 
 function getQueryStringValue (key) {  
